@@ -1,7 +1,7 @@
 """
 This is a Python script that tests the Rust DLL.
 
-Run this script with make test
+Run this script with python python.py
 """
 
 import ctypes
